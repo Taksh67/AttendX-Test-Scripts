@@ -11,3 +11,5 @@ Test scripts for the AttendX student attendance application.
 - Python
 - Git
 - GitHub
+
+Maintained using Git and GitHub.
